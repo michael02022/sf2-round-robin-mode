@@ -1,0 +1,19 @@
+{ 
+	"magic": "rrMode", 
+	"version": 1, 
+	"kits": 
+	[
+		{
+			"program": 0, 
+			"p_list": [0]
+		}
+	],
+	"presets":
+	[
+		{
+			"program": 0,
+			"msb": 0,
+			"msb_list": [0] 
+		}
+	]
+}
